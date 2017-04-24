@@ -1,0 +1,34 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Test, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Test.Networking: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String TicTacToe_QUERY IsConst : Public, Static
+    System.String TicTacToe_NAME IsConst : Public, Static
+    System.String TicTacToe_CHALLENGE IsConst : Public, Static
+    Int32 v4AddressSize IsConst : Public, Static, HasDefault
+    Int32 MAX_INTERFACES IsConst : Public, Static, HasDefault
+    Int32 WAIT_TIME IsConst : Public, Static, HasDefault
+    Int32 MAX_SEND_BUF IsConst : Public, Static, HasDefault
+    Int32 MAX_RECV_BUF IsConst : Public, Static, HasDefault
+    Int32 MAX_SERVERS IsConst : Public, Static, HasDefault
+    Int32 ABORT IsConst : Public, Static, HasDefault
+    System.String TicTacToe_UDPPORT IsConst : Public, Static
+  Methods:
+    WSAInit(): PrivateScope, Public, HideBySig
+    WSACleanupWrapper(): PrivateScope, Public, HideBySig
+    wait(Int32, Int32): PrivateScope, Public, HideBySig
+    UDP_send(String, Int32, String, String): PrivateScope, Public, HideBySig
+    UDP_recv(String, Int32, String, String): PrivateScope, Public, HideBySig
+    initPassiveSock(String, String): PrivateScope, Public, HideBySig
+    getBroadcastAddress(): PrivateScope, Public, HideBySig
+    initSock(String, String, String): PrivateScope, Public, HideBySig

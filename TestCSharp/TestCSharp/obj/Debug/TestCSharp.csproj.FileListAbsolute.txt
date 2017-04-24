@@ -1,0 +1,8 @@
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\TestCSharp\TestCSharp\obj\Debug\TestCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\TestCSharp\TestCSharp\bin\Debug\TestCSharp.exe.config
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\TestCSharp\TestCSharp\bin\Debug\TestCSharp.exe
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\TestCSharp\TestCSharp\bin\Debug\TestCSharp.pdb
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\TestCSharp\TestCSharp\bin\Debug\Test.dll
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\TestCSharp\TestCSharp\bin\Debug\Test.pdb
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\TestCSharp\TestCSharp\obj\Debug\TestCSharp.exe
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\TestCSharp\TestCSharp\obj\Debug\TestCSharp.pdb
